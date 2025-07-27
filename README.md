@@ -105,4 +105,5 @@ description: upload CSV file(use ```file``` key in ```form data```)
 
 ## Run Unit tests
 ```bash
-python manage.py test users```
+python manage.py test users
+```
